@@ -1,0 +1,12 @@
+Source: compton-git
+Section: x11
+Priority: optional
+Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
+Build-Depends: debhelper (>= 7.0.0), automake, libx11-dev (>= 6.8.2.dfsg.1-11), libxcomposite-dev (>= 6.8.2.dfsg.1-11), libxfixes-dev (>= 6.8.2.dfsg.1-11), libxdamage-dev (>= 6.8.2.dfsg.1-11), libxrender-dev (>= 1:0.9.0-2), pkg-config (>= 0.20), libxext-dev, libconfig-dev, libpcre3-dev, libxrandr-dev, libdrm-dev, mesa-common-dev, libgl1-mesa-dev
+Standards-Version: 3.9.1
+
+Package: compton-git
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: X composition manager
+ Compton is a compositor for X, and a fork of xcompmgr-dana.

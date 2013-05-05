@@ -1,0 +1,73 @@
+compton-git (20121102-2) unstable; urgency=low
+
+  * Adjust default config.
+  * first PiBang build
+
+ -- "Super" Nathan Weber <supernathansunshing@gmail.com>  Sat, 04 May 2013 12:18:57 +0100
+
+compton-git (20121102-1) unstable; urgency=low
+
+  * Vsync support from richardgv-dev branch,
+    commit: 9fb62874c13b420275d952c8bf213996936ca260
+
+ -- Philip Newborough <corenominal@corenominal.org>  Sun, 04 Nov 2012 11:15:18 +0000
+
+compton-git (20121015-1) unstable; urgency=low
+
+  * Revert to richardgv-dev branch,
+    commit: 75ebe94bb61dd91bca9ae181369eb2cbf7d5564b
+
+ -- Philip Newborough <corenominal@corenominal.org>  Mon, 15 Oct 2012 08:13:42 +0100
+
+compton-git (20121008-1) unstable; urgency=low
+
+  * Test build using richardgv-dev branch,
+    commit: b59e592588e0d6f09085ec7b7f3381abb7945453
+    Adds vsync support
+
+ -- Philip Newborough <corenominal@corenominal.org>  Mon, 08 Oct 2012 08:01:13 +0100
+
+compton-git (20120926-1) unstable; urgency=low
+
+  * Test build using richardgv-dev branch,
+    commit: 75ebe94bb61dd91bca9ae181369eb2cbf7d5564b
+
+ -- Philip Newborough <corenominal@corenominal.org>  Wed, 26 Sep 2012 18:12:09 +0100
+
+compton-git (20120925-2) unstable; urgency=low
+
+  * Add new config file to makefile.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Tue, 25 Sep 2012 22:58:20 +0100
+
+compton-git (20120925-1) unstable; urgency=low
+
+  * Test build using richardgv-dev branch,
+    commit: 564e55e22cdcb8c442df72157a82fbb2a05867dc
+  * Add libconfig-dev to build depends.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Tue, 25 Sep 2012 19:30:48 +0100
+
+compton-git (20120917-1) unstable; urgency=low
+
+  * Test build using richardgv-dev branch.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Mon, 17 Sep 2012 16:01:49 +0100
+
+compton-git (20120915) unstable; urgency=low
+
+  * New upstream release
+
+ -- Philip Newborough <corenominal@corenominal.org>  Sat, 15 Sep 2012 14:44:32 +0100
+
+compton-git (20120910) unstable; urgency=low
+
+  * New upstream release
+
+ -- Philip Newborough <corenominal@corenominal.org>  Mon, 10 Sep 2012 07:52:54 +0100
+
+compton-git (20120405) unstable; urgency=low
+
+  * Initial release 
+
+ -- Philip Newborough <corenominal@corenominal.org>  Thu, 05 Apr 2012 11:14:26 +0100

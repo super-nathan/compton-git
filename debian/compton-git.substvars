@@ -1,0 +1,2 @@
+shlibs:Depends=libc6 (>= 2.4), libc6 (>= 2.13-28), libconfig9, libgl1-mesa-glx | libgl1, libpcre3 (>= 8.10), libx11-6, libxcomposite1 (>= 1:0.3-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxrandr2 (>= 4.3), libxrender1
+misc:Depends=
